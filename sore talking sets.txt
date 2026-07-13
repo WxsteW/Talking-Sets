@@ -1,0 +1,4 @@
+VSTPlugin: Library SweetDrums_x64.dll Process 1 Input 0 Output 0.549065 Bypass 1
+VSTPlugin: Library ATKExpander_x64.dll Attack 0.465117 Release 0.773256 Threshold 0.7907 Softness 0.377907 Slope 0.193528
+Filter: ON PK Fc 600 Hz Gain 0 dB Q 10
+Preamp: 0.5 dB

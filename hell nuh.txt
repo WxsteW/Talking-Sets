@@ -1,0 +1,3 @@
+Preamp: 30 dB
+VSTPlugin: Library Wider.dll ChunkData "cT0KPg=="
+VSTPlugin: Library QuickHaas.dll ChunkData "VkMyIUQAAAA8UGx1Z2luU2V0dGluZ3MgaGRlbGF5Zj0iMC4wMDA5MDAwMDAzMzM3ODYwMTA3NDIxOSIgc3RlcmVvVHlwZT0iMCIvPgA="

@@ -1,0 +1,12 @@
+RNNOISE FOR NO KEYBOARD ATK IF U DONT CARE ABT IT
+VSTPlugin: Library rnnoise_stereo.dll ChunkData "VkMyIdEAAAA8P3htbCB2ZXJzaW9uPSIxLjAiIGVuY29kaW5nPSJVVEYtOCI/PiA8Uk5Ob2lzZT48UEFSQU0gaWQ9InZhZF9ncmFjZV9wZXJpb2QiIHZhbHVlPSIwLjAiLz48UEFSQU0gaWQ9InZhZF9yZXRyb2FjdGl2ZV9ncmFjZV9wZXJpb2QiIHZhbHVlPSIwLjAiLz48UEFSQU0gaWQ9InZhZF90aHJlc2hvbGQiIHZhbHVlPSIwLjA0OTk5OTk5NzAxOTc2Nzc2Ii8+PC9STk5vaXNlPgA="
+# VSTPlugin: Library ATKExpander_x64.dll Attack 1 Release 1 Threshold 0.343023 Slope 1 Softness 1
+VSTPlugin: Library basiQ.dll ChunkData "UEtTQlEAAgBHdWl0YXIgRmFjZQAAAAAAAAAAAAAAgD/NzMw9AAAAAEjhOj8fhSs/pHAdPwAAAD8="
+VSTPlugin: Library basiQ.dll ChunkData "UEtTQlEAAgBQcmVzZW5jZQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAADMzMz89Clc+PQoXPwAAAD8="
+VSTPlugin: Library basiQ.dll ChunkData "UEtTQlEAAgBTd2VldCBWb2NhbAAAAAAADAABDd6bAAiQqwYQAAAAAAAAID/NzCw/AAAAPwAAAD8="
+Preamp: -6.7 dB
+EBOY SETTINGS
+VSTPlugin: Library SweetDrums_x64.dll Process 1 Input 0 Output 0.5 Bypass 1
+VSTPlugin: Library SweetDrums_x64.dll Process 1 Input 0 Output 0.5 Bypass 1
+Voice CHanger
+# VSTPlugin: Library pitchproof-x64.dll ChunkData "MS4wMDAsMC41MDAsMC42MzMsMC4wMDAsMS4wMDAsMC4wMDAsMC4wMDAsMC4wMDAA"

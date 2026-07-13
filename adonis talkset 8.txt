@@ -1,0 +1,12 @@
+# VSTPlugin: Library AngelClear.dll
+VSTPlugin: Library clear.dll ChunkData "VkMyIaIAAAA8P3htbCB2ZXJzaW9uPSIxLjAiIGVuY29kaW5nPSJVVEYtOCI/PiA8TVlQTFVHSU5TRVRUSU5HUyBkYkVuYWJsZT0iMSIgZGJQYXJhbTE9IjAuMTg2MDAwMDA0NDEwNzQzNyIgZGJQYXJhbTI9IjAuMjc2MDAwMDIyODg4MTgzNiIgZGJQYXJhbTM9IjAuMDY0MDAwMDAzMDM5ODM2ODgiLz4A"
+VSTPlugin: Library clear.dll ChunkData "VkMyIaEAAAA8P3htbCB2ZXJzaW9uPSIxLjAiIGVuY29kaW5nPSJVVEYtOCI/PiA8TVlQTFVHSU5TRVRUSU5HUyBkYkVuYWJsZT0iMSIgZGJQYXJhbTE9IjAuMTc0MDAwMDA5ODk0MzcxIiBkYlBhcmFtMj0iMC4wODQwMDAwMDYzMTgwOTIzNSIgZGJQYXJhbTM9IjAuMjgwMDAwMDAxMTkyMDkyOSIvPgA="
+VSTPlugin: Library Wider.dll ChunkData "ZEzGPg=="
+VSTPlugin: Library GGain.dll Gain 1
+VSTPlugin: Library "ATKExpander x64.dll" Attack 0.534069 Release 0.377093 Threshold 0.866279 Softness 0.8292 Slope 0.164457
+VSTPlugin: Library rnnoise-stereo.dll
+VSTPlugin: Library GGain.dll Gain 1
+# Filter: ON HSC 22.0229 dB Fc 230.69 Hz Gain 7.6 dB
+# LoudnessCorrection: State 1 ReferenceLevel -2 ReferenceOffset 19 Attenuation 0.56
+VSTPlugin: Library GGain.dll Gain 1
+VSTPlugin: Library QuickHaas.dll ChunkData "VkMyIUMAAAA8UGx1Z2luU2V0dGluZ3MgaGRlbGF5Zj0iLTAuMDE4OTk5OTk5Mzg5MDUyMzkxMDUyIiBzdGVyZW9UeXBlPSIzIi8+AA=="

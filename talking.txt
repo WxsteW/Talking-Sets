@@ -1,0 +1,9 @@
+VSTPlugin: Library ATKExpander_x64.dll Attack 0.959302 Release 1 Threshold 0.930232 Softness 1 Slope 0
+Filter: ON HSC 12 dB Fc 60 Hz Gain -5.2 dB
+VSTPlugin: Library basiQ.dll ChunkData "UEtTQlEAAgBTd2VldCBWb2NhbAAgS2l0c1wxMFxXaW5kb3dzAAAAAAAAID/NzCw/AAAAPwAAAD8="
+VSTPlugin: Library basiQ.dll ChunkData "UEtTQlEAAgBOaWNlIFZvY2FsAAAAAAAAAAAAAAAAAAABAAAAAAAAAM3MLD8fhas+AAAAPwAAAD8="
+VSTPlugin: Library SweetDrums_x64.dll Process 1 Input 0 Output 0.5 Bypass 1
+VSTPlugin: Library SweetDrums_x64.dll Process 1 Input 0 Output 0.5 Bypass 1
+# voice changer
+VSTPlugin: Library pitchproof-x64.dll ChunkData "MS4wMDAsMC41MDAsMC42MzMsMC4wMDAsMS4wMDAsMC4wMDAsMC4wMDAsMC4wMDAA"
+Preamp: 10.5 dB

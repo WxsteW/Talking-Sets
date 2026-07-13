@@ -1,0 +1,12 @@
+VSTPlugin: Library "ATKExpander x64.dll" Attack 0 Release 0.353837 Threshold 0.608837 Slope 0.406512 Softness 1
+VSTPlugin: Library SweetDrums_x64.dll Process 0.539285 Input 0.130357 Output 0.5 Bypass 1
+VSTPlugin: Library SweetDrums_x64.dll Process 0.539285 Input 0.130357 Output 0.5 Bypass 1
+VSTPlugin: Library basiQ.dll ChunkData "UEtTQlEAAgBOaWNlIFZvY2FsAAMcBQEgFwSBARUFYQAaBAEIAAAAAM3MLD8fhas+AAAAP1K43j4="
+VSTPlugin: Library basiQ.dll ChunkData "UEtTQlEAAgBCYXNzIE9LAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAD+kcB0/mplZPwAAAD8="
+Filter: ON HP Fc 100 Hz
+VSTPlugin: Library DeeCrystal.dll ChunkData "VkMyIYQAAAA8P3htbCB2ZXJzaW9uPSIxLjAiIGVuY29kaW5nPSJVVEYtOCI/PiA8TVlQTFVHSU5TRVRUSU5HUyBkYkVuYWJsZT0iMSIgZGJQYXJhbTE9IjAuMCIgZGJQYXJhbTI9IjAuMCIgZGJQYXJhbTM9IjAuMDQyMDAwMDAzMTU5MDQ2MTciLz4A"
+VSTPlugin: Library WiderV2.dll ChunkData "sAULPgAAgL8AAIA/AAAAAA=="
+VSTPlugin: Library LOVEND_x64.dll Frequency 0.0386957 Oversampling 0 Boost 0.0891304 Output 0.5 Bypass 1
+Preamp: 0.6 dB
+# 
+VSTPlugin: Library pitchproof-x64.dll ChunkData "MS4wMDAsMC41MDAsMC42MzMsMC4wMDAsMS4wMDAsMC4wMDAsMC4wMDAsMC4wMDAA"

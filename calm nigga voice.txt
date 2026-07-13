@@ -1,0 +1,7 @@
+
+VSTPlugin: Library rnnoise_stereo.dll ChunkData "VkMyIdAAAAA8P3htbCB2ZXJzaW9uPSIxLjAiIGVuY29kaW5nPSJVVEYtOCI/PiA8Uk5Ob2lzZT48UEFSQU0gaWQ9InZhZF9ncmFjZV9wZXJpb2QiIHZhbHVlPSIwLjAiLz48UEFSQU0gaWQ9InZhZF9yZXRyb2FjdGl2ZV9ncmFjZV9wZXJpb2QiIHZhbHVlPSIwLjAiLz48UEFSQU0gaWQ9InZhZF90aHJlc2hvbGQiIHZhbHVlPSIwLjEwOTk5OTk5OTQwMzk1MzYiLz48L1JOTm9pc2U+AA=="
+Preamp: 3.9 dB
+Filter: ON HP Fc 188.81 Hz
+VSTPlugin: Library SweetDrums_x64.dll Process 1 Input 0 Output 0.5 Bypass 1
+VSTPlugin: Library SweetDrums_x64.dll Process 0.201786 Input 0 Output 0.5 Bypass 1
+VSTPlugin: Library basiQ.dll ChunkData "UEtTQlEAAgBQcmVzZW5jZQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAADMzMz89Clc+PQoXPwAAAD8="

@@ -1,0 +1,7 @@
+
+VSTPlugin: Library ATKExpander_x64.dll Attack 0 Release 0.436047 Threshold 0.593024 Slope 1 Softness 1
+VSTPlugin: Library basiQ.dll ChunkData "UEtTQlEAAgBOaWNlIFZvY2FsAAAAAAAAAAAAAAAAAEMAAAAAAAAAAD4KFz/QzEw9hesRPz0KFz8="
+VSTPlugin: Library basiQ.dll ChunkData "UEtTQlEAAgBOaWNlIFZvY2FsAAAAAAAAAAAAAAAAAEMAAAAAAAAAAD4KFz/QzEw9hesRPzMzEz8="
+Filter: ON LPQ Fc 11819.1 Hz Q 2.9844
+Filter: ON HPQ Fc 62.87 Hz Q 1.8401
+Preamp: 7.7 dB

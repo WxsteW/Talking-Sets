@@ -1,0 +1,125 @@
+
+Device: Microphone HyperX QuadCast {eefb84e8-d3e5-4199-ae2b-4ac331f728f1}
+Channel: All
+Preamp: -4 dB
+Channel: SL SR RL RR C
+Filter: ON HP Fc 65 Hz
+Delay: 9 ms
+Channel: LFE
+Filter: ON LP Fc 65 Hz
+Delay: 9 ms
+Copy: C0=0.5*L+0.5*R
+Copy: SU0=C0
+Copy: CL=L CR=R
+Channel: CL CR
+Filter: ON HP Fc 780 Hz
+Copy: FL0=L+-0*CR
+Copy: FR0=R+-0*CL
+Copy: SL0=L+-0.4*CR
+Copy: SR0=R+-0.4*CL
+Copy: RL0=L+-0.6*CR
+Copy: RR0=R+-0.6*CL
+Copy: SL1=SL0 SL2=SL0 SL3=SL0 SL4=SL0 SL5=SL0 SL6=SL0 SL7=SL0
+Copy: SR1=SR0 SR2=SR0 SR3=SR0 SR4=SR0 SR5=SR0 SR6=SR0 SR7=SR0
+Copy: RL1=RL0 RL2=RL0 RL3=RL0 RL4=RL0 RL5=RL0 RL6=RL0 RL7=RL0
+Copy: RR1=RR0 RR2=RR0 RR3=RR0 RR4=RR0 RR5=RR0 RR6=RR0 RR7=RR0
+Copy: C1=C0 C2=C0 C3=C0 C4=C0 C5=C0 C6=C0 C7=C0
+Channel: SL0 SR0 RL0 RR0 C0
+Filter: ON LP Fc 125 Hz
+Filter: ON HP Fc 65 Hz
+Channel: SL1 SR1 RL1 RR1 C1
+Filter: ON LP Fc 250 Hz
+Filter: ON HP Fc 125 Hz
+Channel: SL2 SR2 RL2 RR2 C2
+Filter: ON LP Fc 500 Hz
+Filter: ON HP Fc 250 Hz
+Channel: SL3 SR3 RL3 RR3 C3
+Filter: ON LP Fc 1000 Hz
+Filter: ON HP Fc 500 Hz
+Channel: SL4 SR4 RL4 RR4 C4
+Filter: ON LP Fc 2000 Hz
+Filter: ON HP Fc 1000 Hz
+Channel: SL5 SR5 RL5 RR5 C5
+Filter: ON LP Fc 4000 Hz
+Filter: ON HP Fc 2000 Hz
+Channel: SL6 SR6 RL6 RR6 C6
+Filter: ON LP Fc 8000 Hz
+Filter: ON HP Fc 4000 Hz
+Channel: SL7 SR7 RL7 RR7 C7
+Filter: ON HP Fc 8000 Hz
+Channel: SU0
+Filter: ON LP Fc 65 Hz
+Delay: 8 ms
+Channel: FL0 FR0
+Filter: ON HP Fc 65 Hz
+Delay: 9 ms
+Channel: SL0 SR0
+Delay: 11 ms
+Channel: SL1 SR1
+Delay: 10 ms
+Channel: SL2 SR2
+Delay: 9 ms
+Channel: SL3 SR3
+Delay: 11 ms
+Channel: SL4 SR4
+Delay: 12 ms
+Channel: SL5 SR5
+Delay: 10 ms
+Channel: SL6 SR6
+Delay: 9 ms
+Channel: SL7 SR7
+Delay: 8 ms
+Channel: RL0 RR0
+Delay: 15 ms
+Channel: RL1 RR1
+Delay: 14 ms
+Channel: RL2 RR2
+Delay: 15 ms
+Channel: RL3 RR3
+Delay: 16 ms
+Channel: RL4 RR4
+Delay: 17 ms
+Channel: RL5 RR5
+Delay: 18 ms
+Channel: RL6 RR6
+Delay: 17 ms
+Channel: RL7 RR7
+Delay: 16 ms
+Channel: C0
+Delay: 13 ms
+Channel: C1
+Delay: 12 ms
+Channel: C2
+Delay: 10 ms
+Channel: C3
+Delay: 9 ms
+Channel: C4
+Delay: 9.1 ms
+Channel: C5
+Delay: 11 ms
+Channel: C6
+Delay: 14 ms
+Channel: C7
+Delay: 14 ms
+Copy: SL0=SL0+SL1+SL2+SL3+SL4+SL5+SL6+SL7
+Copy: SR0=SR0+SR1+SR2+SR3+SR4+SR5+SR6+SR7
+Copy: RL0=RL0+RL1+RL2+RL3+RL4+RL5+RL6+RL7
+Copy: RR0=RR0+RR1+RR2+RR3+RR4+RR5+RR6+RR7
+Copy: C0=C0+C1+C2+C3+C4+C5+C6+C7
+Copy: L=1*FL0
+Copy: R=1*FR0
+Copy: SR=SR+1*SR0
+Copy: SL=SL+1*SL0
+Copy: RL=RL+1*RL0  
+Copy: RR=RR+1*RR0
+Copy: C=C+1.2*C0
+Copy: LFE=LFE+1*SU0
+Channel: all
+Preamp: -4.2 dB
+Filter 1: ON PK Fc 10 Hz Gain 19 dB Q 1.41
+Filter 2: ON PK Fc 21 Hz Gain 19.5 dB Q 1.41
+Filter 3: ON PK Fc 42 Hz Gain 16 dB Q 1.41
+Filter 4: ON PK Fc 83 Hz Gain 6 dB Q 1.41
+Filter 5: ON LSC 0.4 dB Fc 166 Hz Gain 13 dB
+Filter 7: ON PK Fc 577 Hz Gain -4.5 dB Q 1.64
+Filter 12: ON PK Fc 16000 Hz Gain 16 dB Q 1.41

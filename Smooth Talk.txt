@@ -1,0 +1,13 @@
+# Adjust db according to your mic
+Preamp: -9 dB
+# Use one of em according to the one that works for u
+VSTPlugin: Library rnnoise_stereo.dll ChunkData "VkMyIdEAAAA8P3htbCB2ZXJzaW9uPSIxLjAiIGVuY29kaW5nPSJVVEYtOCI/PiA8Uk5Ob2lzZT48UEFSQU0gaWQ9InZhZF9ncmFjZV9wZXJpb2QiIHZhbHVlPSIwLjAiLz48UEFSQU0gaWQ9InZhZF9yZXRyb2FjdGl2ZV9ncmFjZV9wZXJpb2QiIHZhbHVlPSIwLjAiLz48UEFSQU0gaWQ9InZhZF90aHJlc2hvbGQiIHZhbHVlPSIwLjA0OTk5OTk5NzAxOTc2Nzc2Ii8+PC9STk5vaXNlPgA="
+# VSTPlugin: Library ATKExpander_x64.dll Attack 1 Release 1 Threshold 0.447674 Slope 1 Softness 0.819767
+# Don't change any of it even if u do idgaf
+VSTPlugin: Library basiQ.dll ChunkData "UEtTQlEAAgBEZWZhdWx0AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAD4KVz8AAAAAAACAP7geJT8="
+VSTPlugin: Library DeeCrystal.dll ChunkData "VkMyIYMAAAA8P3htbCB2ZXJzaW9uPSIxLjAiIGVuY29kaW5nPSJVVEYtOCI/PiA8TVlQTFVHSU5TRVRUSU5HUyBkYkVuYWJsZT0iMSIgZGJQYXJhbTE9IjAuMCIgZGJQYXJhbTI9IjAuMCIgZGJQYXJhbTM9IjAuNjAwMDAwMDIzODQxODU3OSIvPgA="
+VSTPlugin: Library Wider.dll ChunkData "7ggPPg=="
+VSTPlugin: Library SweetDrums_x64.dll Process 0.5 Input 0 Output 0.432243 Bypass 1
+# to sound extra eboy
+# VSTPlugin: Library LOVEND_x64.dll Frequency 0.836957 Oversampling 0 Boost 0.0326087 Output 0.471264 Bypass 1
+# VSTPlugin: Library SweetDrums_x64.dll Process 0.5 Input 0.319643 Output 0.492991 Bypass 1

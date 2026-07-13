@@ -1,0 +1,11 @@
+
+VSTPlugin: Library ATKExpander_x64.dll Attack 1 Release 1 Threshold 0.872093 Slope 0 Softness 0.0232558
+Preamp: 14.8 dB
+VSTPlugin: Library basiQ.dll ChunkData "UEtTQlEAAgBTd2VldCBWb2NhbAAAAAAAAAAAAAAAAAAAAAAAAAAAAB+FKz/Yo7A+kMK1PhSuxz4="
+VSTPlugin: Library basiQ.dll ChunkData "UEtTQlEAAgBTd2VldCBWb2NhbAAAAAAAAAAAAAAAAAAAAAAAAAAAAB+FKz/Yo7A+kMK1Ph6FKz8="
+VSTPlugin: Library basiQ.dll ChunkData "UEtTQlEAAgBQcmVzZW5jZQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAADMzMz89Clc+PQoXPwAAAD8="
+Filter: ON HP Fc 140 Hz
+VSTPlugin: Library SweetDrums_x64.dll Process 0.998214 Input 0 Output 0.5 Bypass 1
+VSTPlugin: Library QuickHaas.dll ChunkData "VkMyIUMAAAA8UGx1Z2luU2V0dGluZ3MgaGRlbGF5Zj0iLTAuMDE4OTk5OTk5Mzg5MDUyMzkxMDUyIiBzdGVyZW9UeXBlPSIwIi8+AA=="
+VSTPlugin: Library pitchproof-x64.dll ChunkData "MS4wMDAsMC4wMDAsMC42MzMsMC4wMDAsMS4wMDAsMC4wMDAsMC4wMDAsMC4wMDAA"
+# VSTPlugin: Library ReverbSolo.dll ChunkData "Tk9DQUxTVlIDAAEAAgAAAAIAAAApXJdAAQAAAOqD2L8+R0MJSq8EhwA="

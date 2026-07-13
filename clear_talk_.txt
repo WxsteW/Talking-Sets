@@ -1,0 +1,13 @@
+VSTPlugin: Library rnnoise_stereo.dll ChunkData "VkMyIdEAAAA8P3htbCB2ZXJzaW9uPSIxLjAiIGVuY29kaW5nPSJVVEYtOCI/PiA8Uk5Ob2lzZT48UEFSQU0gaWQ9InZhZF9ncmFjZV9wZXJpb2QiIHZhbHVlPSIwLjAiLz48UEFSQU0gaWQ9InZhZF9yZXRyb2FjdGl2ZV9ncmFjZV9wZXJpb2QiIHZhbHVlPSIwLjAiLz48UEFSQU0gaWQ9InZhZF90aHJlc2hvbGQiIHZhbHVlPSIwLjAzOTk5OTk5OTEwNTkzMDMzIi8+PC9STk5vaXNlPgA="
+VSTPlugin: Library SweetDrums_x64.dll Process 0.551786 Input 0 Output 0.5 Bypass 1
+VSTPlugin: Library SweetDrums_x64.dll Process 0.551786 Input 0 Output 0.5 Bypass 1
+Filter: ON LS Fc 450.85 Hz Gain 2.4 dB
+Preamp: 1.8 dB
+VSTPlugin: Library basiQ.dll ChunkData "UEtTQlEAAgBEZWZhdWx0AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAMP1KD/Xo7A+cD0qP8L1CD8="
+# VSTPlugin: Library Wider.dll ChunkData "bM5mPg=="
+EBOY SETTINGS
+VSTPlugin: Library SweetDrums_x64.dll Process 0.642857 Input 0 Output 0.5 Bypass 1
+IF U WANT EBOY VOICE TURN OFF THE WIDER AND TURN THIS SWEETDRUMS ON^^
+DON T GET TO CLOSE TO THE MIC NIGGA
+ 
+# VSTPlugin: Library QuickHaas.dll ChunkData "VkMyIUMAAAA8UGx1Z2luU2V0dGluZ3MgaGRlbGF5Zj0iLTAuMDE4OTk5OTk5Mzg5MDUyMzkxMDUyIiBzdGVyZW9UeXBlPSIwIi8+AA=="

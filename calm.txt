@@ -1,0 +1,11 @@
+VSTPlugin: Library rnnoise_stereo.dll ChunkData "VkMyIdAAAAA8P3htbCB2ZXJzaW9uPSIxLjAiIGVuY29kaW5nPSJVVEYtOCI/PiA8Uk5Ob2lzZT48UEFSQU0gaWQ9InZhZF9ncmFjZV9wZXJpb2QiIHZhbHVlPSIwLjAiLz48UEFSQU0gaWQ9InZhZF9yZXRyb2FjdGl2ZV9ncmFjZV9wZXJpb2QiIHZhbHVlPSIwLjAiLz48UEFSQU0gaWQ9InZhZF90aHJlc2hvbGQiIHZhbHVlPSIwLjI5OTk5OTk4MjExODYwNjYiLz48L1JOTm9pc2U+AA=="
+VSTPlugin: Library basiQ.dll ChunkData "UEtTQlEAAgBTd2VldCBWb2NhbAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAID/NzCw/AAAAPwAAAD8="
+VSTPlugin: Library basiQ.dll ChunkData "UEtTQlEAAgBDcnlzdGFsAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAJqZWT8fhSs/9iicPilczz4="
+VSTPlugin: Library basiQ.dll ChunkData "UEtTQlEAAgBHdWl0YXIgRmFjZQD5jZx3NfIYxQt480IHJQWjAAAAAEjhOj8fhSs/pHAdP/Yo3D4="
+VSTPlugin: Library WiderV2.dll ChunkData "AAAQPgAAgL8AAIA/AAAAAA=="
+Filter: ON PK Fc 20000 Hz Gain 2.5 dB Q 10
+Filter: ON HPQ Fc 75 Hz Q 1.3
+Filter: ON LPQ Fc 6700 Hz Q 1
+VSTPlugin: Library LOVEND_x64.dll Frequency 0.708696 Oversampling 0 Boost 0.56087 Output 0.5 Bypass 1
+VSTPlugin: Library SweetDrums_x64.dll Process 1 Input 0 Output 0.5 Bypass 1
+Preamp: -8.5 dB

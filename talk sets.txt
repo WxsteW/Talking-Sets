@@ -1,0 +1,7 @@
+
+VSTPlugin: Library basiQ.dll ChunkData "UEtTQlEAAgBPcGVuIE1peAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAALgeJT97FK4+MzMTPylcDz8="
+VSTPlugin: Library SweetDrums_x64.dll Process 1 Input 0.0125 Output 0.528037 Bypass 1
+Filter: ON HP Fc 68.87 Hz
+VSTPlugin: Library ATKExpander_x64.dll Attack 1 Release 0.994186 Threshold 0.52907 Softness 1 Slope 1
+Preamp: 2.1 dB
+Include: press.txt

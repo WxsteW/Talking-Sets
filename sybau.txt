@@ -1,0 +1,11 @@
+a74e
+VSTPlugin: Library rnnoise_stereo.dll ChunkData "VkMyIdEAAAA8P3htbCB2ZXJzaW9uPSIxLjAiIGVuY29kaW5nPSJVVEYtOCI/PiA8Uk5Ob2lzZT48UEFSQU0gaWQ9InZhZF9ncmFjZV9wZXJpb2QiIHZhbHVlPSIzLjAiLz48UEFSQU0gaWQ9InZhZF9yZXRyb2FjdGl2ZV9ncmFjZV9wZXJpb2QiIHZhbHVlPSIwLjAiLz48UEFSQU0gaWQ9InZhZF90aHJlc2hvbGQiIHZhbHVlPSIwLjA1OTk5OTk5ODY1ODg5NTQ5Ii8+PC9STk5vaXNlPgA="
+VSTPlugin: Library basiQ.dll ChunkData "UEtTQlEAAgBQcmVzZW5jZQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAADMzMz89Clc+PQoXPwAAAD8="
+optional btw
+# VSTPlugin: Library basiQ.dll ChunkData "UEtTQlEAAgBLaWNrIEl0AAAAAAAA2jM5AAAAAABCMzkAAAAAAAAAAK5HIT8AAIA+mplZP2ZmBj8="
+filters
+Filter: ON PK Fc 90 Hz Gain 2 dB Q 10
+Filter: ON PK Fc 120 Hz Gain 1 dB Q 10
+Filter: ON PK Fc 230 Hz Gain 1.8 dB Q 10
+process - 41% or 100%
+VSTPlugin: Library SweetDrums_x64.dll Process 0.407143 Input 0 Output 0.5 Bypass 1

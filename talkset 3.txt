@@ -1,0 +1,9 @@
+Preamp: 7 dB
+VSTPlugin: Library rnnoise_stereo.dll ChunkData "VkMyIdIAAAA8P3htbCB2ZXJzaW9uPSIxLjAiIGVuY29kaW5nPSJVVEYtOCI/PiA8Uk5Ob2lzZT48UEFSQU0gaWQ9InZhZF9ncmFjZV9wZXJpb2QiIHZhbHVlPSIyMC4wIi8+PFBBUkFNIGlkPSJ2YWRfcmV0cm9hY3RpdmVfZ3JhY2VfcGVyaW9kIiB2YWx1ZT0iMC4wIi8+PFBBUkFNIGlkPSJ2YWRfdGhyZXNob2xkIiB2YWx1ZT0iMC4wMzk5OTk5OTkxMDU5MzAzMyIvPjwvUk5Ob2lzZT4A"
+VSTPlugin: Library Wider.dll ChunkData "kQqpPQ=="
+VSTPlugin: Library basiQ.dll ChunkData "UEtTQlEAAgBEZWZhdWx0AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAD4K1z4fhas+AACAPwAAAD8="
+VSTPlugin: Library basiQ.dll
+VSTPlugin: Library basiQ.dll ChunkData "UEtTQlEAAgBQcmVzZW5jZQCfoaGhn5+fnp6em5ubnZ2dnZ2dAAAAADMzMz89Clc+PQoXPwAAAD8="
+VSTPlugin: Library SweetDrums_x64.dll Process 1 Input 0 Output 0.478972 Bypass 1
+VSTPlugin: Library SweetDrums_x64.dll Process 1 Input 0 Output 0.474299 Bypass 1
+VSTPlugin: Library pitchproof-x64.dll ChunkData "MS4wMDAsMS4wMDAsMC43MDAsMC4wMDAsMS4wMDAsMC4wMDAsMC4wMDAsMC4wMDAA"

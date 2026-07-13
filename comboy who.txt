@@ -1,0 +1,10 @@
+VSTPlugin: Library "ATKExpander x64.dll" Attack 0 Release 1 Threshold 0.523256 Softness 0 Slope 1
+VSTPlugin: Library SweetDrums_x64.dll Process 0.798214 Input 0 Output 0.5 Bypass 1
+VSTPlugin: Library SweetDrums_x64.dll Process 1 Input 0 Output 0.5 Bypass 1
+Filter: ON LPQ Fc 8390 Hz Q 1
+VSTPlugin: Library basiQ.dll ChunkData "UEtTQlEAAgBHdWl0YXIgRmFjZQAAAAAAAAAAAAAAAAAAAAAAAAAAAEjhOj8fhSs/pHAdP83MzD4="
+VSTPlugin: Library basiQ.dll ChunkData "UEtTQlEAAgBOaWNlIFZvY2FsAAAAAAAAAAAAAAAAAAAAAAAAAAAAAM3MLD8fhas+AAAAPwAAAD8="
+VSTPlugin: Library basiQ.dll ChunkData "UEtTQlEAAgBCYXNzIE9LAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAD+kcB0/mplZP5qZmT4="
+Preamp: -3.1 dB
+VSTPlugin: Library LOVEND_x64.dll Frequency 0.053913 Oversampling 0 Boost 0.100869 Output 0.5 Bypass 1
+# VSTPlugin: Library pitchproof-x64.dll ChunkData "MS4wMDAsMC41MDAsMC42MzMsMC4wMDAsMS4wMDAsMC4wMDAsMC4wMDAsMC4wMDAA"
