@@ -1,0 +1,19 @@
+ski booster vault
+
+VSTPlugin: Library rnnoise_stereo.dll ChunkData "VkMyIdEAAAA8P3htbCB2ZXJzaW9uPSIxLjAiIGVuY29kaW5nPSJVVEYtOCI/PiA8Uk5Ob2lzZT48UEFSQU0gaWQ9InZhZF9ncmFjZV9wZXJpb2QiIHZhbHVlPSIwLjAiLz48UEFSQU0gaWQ9InZhZF9yZXRyb2FjdGl2ZV9ncmFjZV9wZXJpb2QiIHZhbHVlPSIwLjAiLz48UEFSQU0gaWQ9InZhZF90aHJlc2hvbGQiIHZhbHVlPSIwLjA3MDAwMDAwMDI5ODAyMzIyIi8+PC9STk5vaXNlPgA="
+VSTPlugin: Library basiQ.dll ChunkData "UEtTQlEAAgBQcmVzZW5jZQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAADMzMz89Clc+PQoXPzQzsz4="
+VSTPlugin: Library basiQ.dll ChunkData "UEtTQlEAAgBOaWNlIFZvY2FsAAAAAAAAAAAAAAAAAAAAAAAAAAAAAM3MLD8fhas+AAAAP4Xr0T4="
+VSTPlugin: Library basiQ.dll ChunkData "UEtTQlEAAgBLaWNrIEl0AJnLCYojWXbHmV0emOMFMNlr/GNjAAAAAK5HIT8AAIA+mplZP3E9Cj8="
+# 
+VSTPlugin: Library basiQ.dll ChunkData "UEtTQlEAAgBTd2VldCBWb2NhbAB6S5e5V3awLKv+CwT2y5VzAAAAAAAAID/NzCw/AAAAP2Zm5j4="
+Filter: ON LS Fc 207.98 Hz Gain 2.6 dB
+Filter: ON HP Fc 80 Hz
+Filter: ON PK Fc 233 Hz Gain 2 dB Q 10
+VSTPlugin: Library SweetDrums_x64.dll Process 0.289286 Input 0 Output 0.5 Bypass 1
+VSTPlugin: Library SweetDrums_x64.dll Process 0.383929 Input 0 Output 0.5 Bypass 1
+VSTPlugin: Library SweetDrums_x64.dll Process 0.45 Input 0 Output 0.5 Bypass 1
+# 
+Preamp: 7.8 dB
+# VSTPlugin: Library Wider_1.dll ChunkData "ao3WPQ=="
+
+# VSTPlugin: Library QuickHaas.dll ChunkData "VkMyIUMAAAA8UGx1Z2luU2V0dGluZ3MgaGRlbGF5Zj0iLTAuMDE4OTk5OTk5Mzg5MDUyMzkxMDUyIiBzdGVyZW9UeXBlPSIwIi8+AA=="
